@@ -1,0 +1,11 @@
+id,status
+1,Email
+2,Portal
+3,Phone
+4,Chat
+5,Feedback widget
+6,Yammer
+7,AWS Cloudwatch
+8,Pagerduty
+9,Walkup
+10,Slack
